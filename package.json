@@ -1,0 +1,23 @@
+{
+  "name": "modifybh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anyproxy -i -r rule.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heqyoufree/ModifyBH.git"
+  },
+  "author": "heqyou_free",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heqyoufree/ModifyBH/issues"
+  },
+  "homepage": "https://github.com/heqyoufree/ModifyBH#readme"
+}
